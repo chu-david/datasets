@@ -1,4 +1,4 @@
-Country,Date,No. of suspected cases,No. of probable cases,No. of confirmed cases,"No. of confirmed, probable and suspected cases",No. of suspected deaths,No. of probable deaths,No. of confirmed deaths,"No. of confirmed, probable and suspected deaths"
+Country,Date,No. of suspected cases,No. of probable cases,No. of confirmed cases,No. of confirmed- probable and suspected cases,No. of suspected deaths,No. of probable deaths,No. of confirmed deaths,No. of confirmed-probable and suspected deaths
 Guinea,29/08/2014,25,141,482,648,2,141,287,430
 Nigeria,29/08/2014,3,1,15,19,0,1,6,7
 Sierra Leone,29/08/2014,54,37,935,1026,8,34,380,422
